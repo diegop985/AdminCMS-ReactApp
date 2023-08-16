@@ -10,6 +10,11 @@
 
 ## Visit the Admin | CMS web on
 
+_In order to get into the Dashboard you would need to Sign in first, you can use any of the options offered or using the following credentials for testing_
+
+email: testwebpage9@gmail.com
+password: testadmincms
+
 **Live**: https://admin-cms-react-app.vercel.app/
 
 **Repo**: https://github.com/diegop985/AdminCMS-ReactApp
