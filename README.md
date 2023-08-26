@@ -28,7 +28,7 @@ testadmincms
 
 **Repo**: https://github.com/diegop985/AdminCMS-ReactApp
 
-## Tech and frameworks used
+## Tech and libraries used
 
 - React.js
 - Next.js
