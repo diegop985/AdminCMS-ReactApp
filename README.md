@@ -13,6 +13,7 @@
 _In order to get into the Dashboard you would need to Sign in first, you can use any of the options offered or using the following credentials for testing_
 
 email: testwebpage9@gmail.com
+
 password: testadmincms
 
 **Live**: https://admin-cms-react-app.vercel.app/
@@ -22,16 +23,39 @@ password: testadmincms
 ## Tech and frameworks used
 
 - React.js
-- JavaScript
-- TypeScript
-- BackEnd Development
-- FrontEnd Development
+- Next.js
+- TypeScript | JavaScript
+- shadcn/ui Component library
+- Zustand
 - zod
-- database
 - Tailwind CSS
 - MySQL
 - Node.js
-- Next.js
-- Sistemas de gestión de contenidos (CMS)
+- React Query
+- Content Management System (CMS)
+- BackEnd Development
+- FrontEnd Development
 - Cloudinary
 - Single-page application (SPA)
+
+## Download and test on local
+
+1. Clone the repo using
+
+```
+git clone https://github.com/diegop985/AdminCMS-ReactApp.git
+```
+
+2. Go ahead and install npm packages
+
+```
+npm i
+```
+
+3. Start the development server
+
+```
+npm run dev
+```
+
+_To make the app work on local you need multiple environment variables, feel free to reach out to get help running the app_
