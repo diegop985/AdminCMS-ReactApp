@@ -26,6 +26,7 @@ password: testadmincms
 - Next.js
 - TypeScript | JavaScript
 - shadcn/ui Component library
+- Server Side Rendering & Client Side Rendering
 - Zustand
 - zod
 - Tailwind CSS
